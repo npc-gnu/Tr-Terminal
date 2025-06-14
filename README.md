@@ -28,16 +28,11 @@
 | `yükle`                | `sudo pacman -S <paket>`      | Paket yüklemenizi sağlar. |
 
 ## Kurulum
+`indir` betiğini çalıştırın:
+```bash
+chmod +x indir && ./indir
+```
 
-Henüz bir kurulum betiği mevcut değil (yakında eklenecek). Şimdilik elle kurulum yapabilirsiniz:
-
-1. Betik dosyalarını `/usr/local/bin` dizinine kopyalayın.  
-   (Bu adım için `sudo` gereklidir.)
-2. Her betik için çalıştırılabilir izin verin:
-   ```bash
-   sudo chmod +x /usr/local/bin/<komut_adı>
-   ```
-3. Alternatif olarak, `$PATH` içinde olan başka bir dizini de kullanabilirsiniz.
 
 ## Lisans
 
