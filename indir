@@ -14,3 +14,14 @@ sudo cp süreçler /usr/local/bin/ && sudo chmod +x /usr/local/bin/süreçler
 sudo cp taşı /usr/local/bin/ && sudo chmod +x /usr/local/bin/taşı
 sudo cp yönetici /usr/local/bin/ && sudo chmod +x /usr/local/bin/yönetici
 sudo cp yükle /usr/local/bin/ && sudo chmod +x /usr/local/bin/yükle
+sudo cp aur-depo /usr/local/bin/ && sudo chmod +x /usr/local/bin/aur-depo
+sudo cp aur-güncelleme /usr/local/bin/ && sudo chmod +x /usr/local/bin/aur-güncelleme
+sudo cp aur-kaldır /usr/local/bin/ && sudo chmod +x /usr/local/bin/aur-kaldır
+sudo cp aur-kaldır-b /usr/local/bin/ && sudo chmod +x /usr/local/bin/aur-kaldır-b
+sudo cp aur-kaldır-bc /usr/local/bin/ && sudo chmod +x /usr/local/bin/aur-kaldır-bc
+sudo cp aur-kaldır-c /usr/local/bin/ && sudo chmod +x /usr/local/bin/aur-kaldır-c
+sudo cp aur-yükle /usr/local/bin/ && sudo chmod +x /usr/local/bin/aur-yükle
+sudo cp depo /usr/local/bin/ && sudo chmod +x /usr/local/bin/depo
+sudo cp güncelleme /usr/local/bin/ && sudo chmod +x /usr/local/bin/güncelleme
+sudo cp tam-güncelle /usr/local/bin/ && sudo chmod +x /usr/local/bin/tam-güncelleme
+sudo cp temizle /usr/local/bin/ && sudo chmod +x /usr/local/bin/temizle
