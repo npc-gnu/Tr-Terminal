@@ -42,7 +42,19 @@
 | `temizle`              | `rm -rf /var/cache/pacman/pkg && mkdir /var/cache/pacman/pkg` | Sistemdeki paketlerin eski sürümlerini siler.            |
 
 ## Kurulum
-### `indir` betiğini çalıştırın:
+### 1. Gerekli bağımlılıkları indirin:
+
+```bash
+sudo pacman -S git
+```
+
+### 2. Depoyu indirin:
+
+```bash
+git clone https://github.com/npc-gnu/Tr-Terminal.git && cd Tr-Terminal
+```
+
+### 3. `indir` betiğini çalıştırın:
 
 ```bash
 chmod +x indir && ./indir
