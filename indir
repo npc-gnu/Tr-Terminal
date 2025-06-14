@@ -1,0 +1,16 @@
+#!/bin/bash
+
+sudo cp durum /usr/local/bin/ && sudo chmod +x /usr/local/bin/durum
+sudo cp hızlıdurum /usr/local/bin/ && sudo chmod +x /usr/local/bin/hızlıdurum
+sudo cp kaldır /usr/local/bin/ && sudo chmod +x /usr/local/bin/kaldır
+sudo cp kaldır-b /usr/local/bin/ && sudo chmod +x /usr/local/bin/kaldır-b
+sudo cp kaldır-bc /usr/local/bin/ && sudo chmod +x /usr/local/bin/kaldır-bc 
+sudo cp kaldır-c /usr/local/bin/ && sudo chmod +x /usr/local/bin/kaldır-c
+sudo cp kapat /usr/local/bin/ && sudo chmod +x /usr/local/bin/kapat
+sudo cp kopyala /usr/local/bin/ && sudo chmod +x /usr/local/bin/kopyala
+sudo cp kullanıcıdeğiştir /usr/local/bin/ && sudo chmod +x /usr/local/bin/kullanıcıdeğiştir
+sudo cp sil /usr/local/bin/ && sudo chmod +x /usr/local/bin/sil
+sudo cp süreçler /usr/local/bin/ && sudo chmod +x /usr/local/bin/süreçler
+sudo cp taşı /usr/local/bin/ && sudo chmod +x /usr/local/bin/taşı
+sudo cp yönetici /usr/local/bin/ && sudo chmod +x /usr/local/bin/yönetici
+sudo cp yükle /usr/local/bin/ && sudo chmod +x /usr/local/bin/yükle
