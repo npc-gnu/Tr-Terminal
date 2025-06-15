@@ -1,3 +1,5 @@
+- Bu depo Arch tabanlı sistemler içindir. Debian/Ubuntu tabanlı sistemler için [buraya tıklayın](https://github.com/npc-gnu/Tr-Terminal-deb) .
+
 # Tr-Terminal
 
 ## Tr-Terminal Nedir?
@@ -32,7 +34,7 @@
 | `kaldır-b`             | `pacman -Rs <paket>`          | Girdiğiniz `pacman` paketini ve bağımlılıklarını siler.                                  |
 | `kaldır-bc`            | `pacman -Rns <paket>`         | Girdiğiniz pacman paketini, bağımlılıklarını ve yapılandırma dosyalarını(config) siler.  | 
 | `aur-yükle`            | `yay -S <paket>`              | (aur üzerinden `yay` aracıyla) Paket yüklemenizi sağlar.                                 |
-| `aur-depo              | `yay -Sy`                     | AUR depolarını günceller.                                                                |
+| `aur-depo`             | `yay -Sy`                     | AUR depolarını günceller.                                                                |
 | `aur-güncelleme`       | `yay -Syu`                    | AUR/yay paketlerini günceller.                                                           |
 | `aur-kaldır`           | `yay -R <paket>`              | Girdiğiniz `pacman` paketini siler.                                                      |
 | `aur-kaldır-c`         | `yay -Rn <paket>`             | Girdiğiniz `pacman` paketini ve yapılandırma dosyalarını(config) siler.                  |
