@@ -40,7 +40,7 @@
 | `aur-kaldır-c`         | `yay -Rn <paket>`             | Girdiğiniz `pacman` paketini ve yapılandırma dosyalarını(config) siler.                  |
 | `aur-kaldır-b`         | `yay -Rs <paket>`             | Girdiğiniz `pacman` paketini ve bağımlılıklarını siler.                                  |
 | `aur-kaldır-bc`        | `yay -Rns <paket>`            | Girdiğiniz pacman paketini, bağımlılıklarını ve yapılandırma dosyalarını(config) siler.  |
-| `tam-güncelleme`       | `sudo pacman -Syu && yay -Syu`| Tek komutla her paketi günceller.                                                        |
+| `tam-güncelle`         | `sudo pacman -Syu && yay -Syu`| Tek komutla her paketi günceller.                                                        |
 | `temizle`              | `rm -rf /var/cache/pacman/pkg && mkdir /var/cache/pacman/pkg` | Sistemdeki paketlerin eski sürümlerini siler.            |
 
 ## Kurulum
