@@ -86,7 +86,7 @@ makepkg -si
 #### Yine `durum` / `hızlıdurum` komutlarını kullanmayacaksanız bu adıma gerek yok.
 Tek adım: Paketleri yükleyin
 ```bash
-yönetici yükle neofetch fastfetch
+aur-yükle neofetch fastfetch
 ```
 
 ## Lisans
