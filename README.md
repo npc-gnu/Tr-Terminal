@@ -41,7 +41,9 @@
 | `aur-kaldır-b`         | `yay -Rs <paket>`             | Girdiğiniz `pacman` paketini ve bağımlılıklarını siler.                                  |
 | `aur-kaldır-bc`        | `yay -Rns <paket>`            | Girdiğiniz pacman paketini, bağımlılıklarını ve yapılandırma dosyalarını(config) siler.  |
 | `tam-güncelle`         | `sudo pacman -Syu && yay -Syu`| Tek komutla her paketi günceller.                                                        |
-| `temizle`              | `rm -rf /var/cache/pacman/pkg && mkdir /var/cache/pacman/pkg` | Sistemdeki paketlerin eski sürümlerini siler.            |
+| `pakettemizle`         | `rm -rf /var/cache/pacman/pkg && mkdir /var/cache/pacman/pkg` | Sistemdeki paketlerin eski sürümlerini siler.            |
+| `haypırlend`           | `hyprland`                    | Hyprland'i açar.                                                                         |
+| `temizle`              | `clear`                       | Terminal ekranını temizler.                                                              |
 
 ## Kurulum
 ### 1. Gerekli bağımlılıkları indirin:
@@ -86,7 +88,7 @@ makepkg -si
 #### Yine `durum` / `hızlıdurum` komutlarını kullanmayacaksanız bu adıma gerek yok.
 Tek adım: Paketleri yükleyin
 ```bash
-aur-yükle neofetch fastfetch
+yönetici yükle neofetch fastfetch
 ```
 
 ## Lisans

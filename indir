@@ -24,5 +24,6 @@ sudo cp aur-yükle /usr/local/bin/ && sudo chmod +x /usr/local/bin/aur-yükle
 sudo cp depo /usr/local/bin/ && sudo chmod +x /usr/local/bin/depo
 sudo cp güncelleme /usr/local/bin/ && sudo chmod +x /usr/local/bin/güncelleme
 sudo cp tam-güncelle /usr/local/bin/ && sudo chmod +x /usr/local/bin/tam-güncelle
-sudo cp temizle /usr/local/bin/ && sudo chmod +x /usr/local/bin/temizle
+sudo cp temizle /usr/local/bin/ && sudo chmod +x /usr/local/bin/pakettemizle
 sudo cp haypırlend /usr/local/bin/ && sudo chmod +x /usr/local/bin/haypırlend
+sudo cp temizle /usr/local/bin/ && sudo chmod +x /usr/local/bin/temizle
